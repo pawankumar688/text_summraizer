@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: text_summraizer
+Version: 0.0.0
+Summary: A small python package of NLP applications
+Home-page: https://github.com/pawankumar688/text_summraizer
+Author: pawankumar688
+Author-email: pawanjumarfromhuc.com
+Project-URL: Source, https://github.com/pawankumar688/text_summarizer
+Project-URL: Tracker, https://github.com/pawankumar688/text_summarizer/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# text_summraizer
